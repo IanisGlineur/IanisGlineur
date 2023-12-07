@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @IanisGlineur
-- 👀 I’m interested in electronic conception 
-- 🌱 I’m currently learning electronics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in electronic conception,embedded systems, Web development.
+- 🌱 I’m currently learning electronics, C++ ,JavaScript,HTML,CSS, React, Python. 
 
 <!---
 IanisGlineur/IanisGlineur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
